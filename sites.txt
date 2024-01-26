@@ -1,0 +1,45 @@
+/*
+
+This is a tab-delimmited file with three "columns":
+
+1. URL
+2. Title
+3. Category
+
+Categories currently include "personal", "service", and "games", but feel free to add something else in your submission if you’d like.
+
+*/
+
+https://omg.lol	omg.lol, the friendly web community	service
+https://hearth.lol	Caleb Hearth’s website	personal
+https://omg.muhh.lol	Markus Heurung’s website	personal
+https://epsilon.lol	The Epsilon Galaxy	service
+https://taurean.lol	Taurean Bryant’s website	personal
+https://8bit.lol	8bit’s website	personal
+https://governa.lol	ricardo’s website	personal
+https://garo.lol	garo’s website	personal
+https://four.lol	Four	games
+https://otavio.lol	Otávio’s website	personal
+https://ari.lol	ari’s website	personal
+https://mihobu.lol	Michael Burkhardt’s website	personal
+https://ipaddr.lol	Quinn’s IP Checker	service
+https://acn.lol	Andy’s website	personal
+https://parked.lol	parked.lol	service
+https://acac.lol	Andy Carolan Avatar Club	service
+https://bugle.lol	Bugle	service
+http://sjoy.lol	Sara Joy’s Website	personal
+https://cs.sjoy.lol	CSS Joy Webring	service
+https://nour.lol	Nour’s website	personal
+https://rant.lol	rant.lol	service
+https://maique.lol	maique’s website	personal
+https://joeross.lol	Joe Ross’s website	personal
+https://cropp.lol	Nicolas Cropp’s website	personal
+https://itskevin.lol	Kevin's Website	personal
+https://anniegreens.lol	Apple Annie’s Domain	personal
+https://gpf.lol	Gian Paolo Fontani	personal
+https://omg.tmi.lol	marco's weblog	personal
+https://freddy.lol	Freddy’s website	personal
+https://jottings.lol	Freddy’s Jottings	personal
+https://gil.lol	Gil’s light-hearted corner of the internet	personal
+https://dmc.lol	David’s website	personal
+https://vzq.lol	jose’s website	personal
