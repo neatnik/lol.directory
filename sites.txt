@@ -46,3 +46,4 @@ https://vzq.lol	jose’s website	personal
 https://vercel.lol	the triangle company	personal
 https://htmx.lol	Realtime Wikipedia Events	service
 https://frick.lol	frick	service
+http://url-go.lol URL Shortener service
