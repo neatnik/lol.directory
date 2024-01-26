@@ -43,5 +43,6 @@ https://jottings.lol	Freddy’s Jottings	personal
 https://gil.lol	Gil’s light-hearted corner of the internet	personal
 https://dmc.lol	David’s website	personal
 https://vzq.lol	jose’s website	personal
-https://vercel.lol the triangle company personal
-https://htxml.lol the triangle company personal
+https://vercel.lol	the triangle company	personal
+https://htmx.lol	Realtime Wikipedia Events	service
+https://frick.lol	frick	service
