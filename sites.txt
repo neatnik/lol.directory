@@ -47,4 +47,4 @@ https://vercel.lol	the triangle company	personal
 https://htmx.lol	Realtime Wikipedia Events	service
 https://frick.lol	frick	service
 https://httpster.lol  httpster's personal website  personal
-https://url-go.lol URL Shortener service
+https://url-go.lol  URL Shortener  service
