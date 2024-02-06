@@ -1,192 +1,192 @@
 [
-		{
-				"url": "https:\/\/omg.lol",
-				"title": "omg.lol, the friendly web community",
-				"category": "service"
-		},
-		{
-				"url": "https:\/\/hearth.lol",
-				"title": "Caleb Hearth\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/omg.muhh.lol",
-				"title": "Markus Heurung\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/epsilon.lol",
-				"title": "The Epsilon Galaxy",
-				"category": "service"
-		},
-		{
-				"url": "https:\/\/taurean.lol",
-				"title": "Taurean Bryant\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/8bit.lol",
-				"title": "8bit\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/governa.lol",
-				"title": "ricardo\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/garo.lol",
-				"title": "garo\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/four.lol",
-				"title": "Four",
-				"category": "games"
-		},
-		{
-				"url": "https:\/\/otavio.lol",
-				"title": "Ot\u00e1vio\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/ari.lol",
-				"title": "ari\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/mihobu.lol",
-				"title": "Michael Burkhardt\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/ipaddr.lol",
-				"title": "Quinn\u2019s IP Checker",
-				"category": "service"
-		},
-		{
-				"url": "https:\/\/acn.lol",
-				"title": "Andy\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/parked.lol",
-				"title": "parked.lol",
-				"category": "service"
-		},
-		{
-				"url": "https:\/\/acac.lol",
-				"title": "Andy Carolan Avatar Club",
-				"category": "service"
-		},
-		{
-				"url": "https:\/\/bugle.lol",
-				"title": "Bugle",
-				"category": "service"
-		},
-		{
-				"url": "http:\/\/sjoy.lol",
-				"title": "Sara Joy\u2019s Website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/cs.sjoy.lol",
-				"title": "CSS Joy Webring",
-				"category": "service"
-		},
-		{
-				"url": "https:\/\/nour.lol",
-				"title": "Nour\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/rant.lol",
-				"title": "rant.lol",
-				"category": "service"
-		},
-		{
-				"url": "https:\/\/maique.lol",
-				"title": "maique\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/joeross.lol",
-				"title": "Joe Ross\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/cropp.lol",
-				"title": "Nicolas Cropp\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/itskevin.lol",
-				"title": "Kevin's Website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/anniegreens.lol",
-				"title": "Apple Annie\u2019s Domain",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/gpf.lol",
-				"title": "Gian Paolo Fontani",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/omg.tmi.lol",
-				"title": "marco's weblog",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/freddy.lol",
-				"title": "Freddy\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/jottings.lol",
-				"title": "Freddy\u2019s Jottings",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/gil.lol",
-				"title": "Gil\u2019s light-hearted corner of the internet",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/dmc.lol",
-				"title": "David\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/vzq.lol",
-				"title": "jose\u2019s website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/vercel.lol",
-				"title": "the triangle company",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/htmx.lol",
-				"title": "Realtime Wikipedia Events",
-				"category": "service"
-		},
-		{
-				"url": "https:\/\/frick.lol",
-				"title": "frick",
-				"category": "service"
-		},
-		{
-				"url": "https:\/\/httpster.lol",
-				"title": "httpster's personal website",
-				"category": "personal"
-		},
-		{
-				"url": "https:\/\/url-go.lol",
-				"title": "URL Shortener",
-				"category": "service"
-		}
+    {
+        "url": "https:\/\/omg.lol",
+        "title": "omg.lol, the friendly web community",
+        "category": "service"
+    },
+    {
+        "url": "https:\/\/hearth.lol",
+        "title": "Caleb Hearth\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/omg.muhh.lol",
+        "title": "Markus Heurung\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/epsilon.lol",
+        "title": "The Epsilon Galaxy",
+        "category": "service"
+    },
+    {
+        "url": "https:\/\/taurean.lol",
+        "title": "Taurean Bryant\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/8bit.lol",
+        "title": "8bit\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/governa.lol",
+        "title": "ricardo\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/garo.lol",
+        "title": "garo\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/four.lol",
+        "title": "Four",
+        "category": "games"
+    },
+    {
+        "url": "https:\/\/otavio.lol",
+        "title": "Ot\u00e1vio\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/ari.lol",
+        "title": "ari\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/mihobu.lol",
+        "title": "Michael Burkhardt\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/ipaddr.lol",
+        "title": "Quinn\u2019s IP Checker",
+        "category": "service"
+    },
+    {
+        "url": "https:\/\/acn.lol",
+        "title": "Andy\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/parked.lol",
+        "title": "parked.lol",
+        "category": "service"
+    },
+    {
+        "url": "https:\/\/acac.lol",
+        "title": "Andy Carolan Avatar Club",
+        "category": "service"
+    },
+    {
+        "url": "https:\/\/bugle.lol",
+        "title": "Bugle",
+        "category": "service"
+    },
+    {
+        "url": "http:\/\/sjoy.lol",
+        "title": "Sara Joy\u2019s Website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/cs.sjoy.lol",
+        "title": "CSS Joy Webring",
+        "category": "service"
+    },
+    {
+        "url": "https:\/\/nour.lol",
+        "title": "Nour\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/rant.lol",
+        "title": "rant.lol",
+        "category": "service"
+    },
+    {
+        "url": "https:\/\/maique.lol",
+        "title": "maique\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/joeross.lol",
+        "title": "Joe Ross\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/cropp.lol",
+        "title": "Nicolas Cropp\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/itskevin.lol",
+        "title": "Kevin's Website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/anniegreens.lol",
+        "title": "Apple Annie\u2019s Domain",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/gpf.lol",
+        "title": "Gian Paolo Fontani",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/omg.tmi.lol",
+        "title": "marco's weblog",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/freddy.lol",
+        "title": "Freddy\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/jottings.lol",
+        "title": "Freddy\u2019s Jottings",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/gil.lol",
+        "title": "Gil\u2019s light-hearted corner of the internet",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/dmc.lol",
+        "title": "David\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/vzq.lol",
+        "title": "jose\u2019s website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/vercel.lol",
+        "title": "the triangle company",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/htmx.lol",
+        "title": "Realtime Wikipedia Events",
+        "category": "service"
+    },
+    {
+        "url": "https:\/\/frick.lol",
+        "title": "frick",
+        "category": "service"
+    },
+    {
+        "url": "https:\/\/httpster.lol",
+        "title": "httpster's personal website",
+        "category": "personal"
+    },
+    {
+        "url": "https:\/\/url-go.lol",
+        "title": "URL Shortener",
+        "category": "service"
+    }
 ]
